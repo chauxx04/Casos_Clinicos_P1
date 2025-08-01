@@ -1,0 +1,15 @@
+1. Alertas de Glucemia
+
+Inicio
+
+    Leer N lecturas de glucosa
+
+    Calcular el promedio de glucosa
+
+    Si promedio > 180
+        Mostrar "HIPERGLUCEMIA"
+    Sino si promedio < 70
+        Mostrar "HIPOGLUCEMIA"
+    Sino
+        Mostrar "NORMAL"
+Fin

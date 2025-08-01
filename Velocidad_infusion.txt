@@ -1,0 +1,15 @@
+3. Velocidad de Infusión IV
+
+Inicio
+
+    Leer dosis prescrita (mg/h)
+
+    Leer concentración (mg/mL)
+
+    Calcular velocidad = dosis / concentración
+
+    Si velocidad > 50
+        Mostrar "¡PEDIRR ATENCIÓN!"
+    Sino
+        Mostrar "Continuar"
+Fin

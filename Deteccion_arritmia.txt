@@ -1,0 +1,13 @@
+2. Detección de arritmia simple
+
+Inicio
+
+    Leer M valores de frecuencia cardíaca
+    
+    Contar cuántos están fuera del rango 60–100
+
+    Si número fuera de rango > 3
+        Mostrar "POTENCIAL ARRITMIA"
+    Sino
+        Mostrar "Rítmico"
+Fin
